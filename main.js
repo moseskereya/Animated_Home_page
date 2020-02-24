@@ -1,1 +1,1 @@
-gsap.fromTo('.hero-clipped', { scaleX: 0}, {duration:1, scaleX: 1})
+gsap.fromTo('.hero-clipped', { scaleX: 0}, {duration:1, scaleX: 1});
