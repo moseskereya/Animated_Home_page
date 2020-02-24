@@ -29,7 +29,7 @@ html{
 }
 .hero-clipped{
     height: inherit;
-    background-color: #312f2e; 
+    background-color: #97908c; 
     top: 0;
     width: 60%;
     transform-origin: right;
@@ -59,13 +59,13 @@ html{
     font-weight: 800;
     text-align: center;
     letter-spacing: 1rem;
-    color: #c59d5f;
+    color: #363533;
 }
 
 .sub-heading{
     font-size: 1.4rem;
     font-weight: 300;
-    color: #c59d5f;
+    color: #ffffff;
     letter-spacing: .5rem;
     text-align: center;
 }
